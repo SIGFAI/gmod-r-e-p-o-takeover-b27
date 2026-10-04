@@ -1,0 +1,1 @@
+Unzip the mod folder into a new folder inside garrysmod/addons, start Garry's Mod in Sandbox on any map, and the loot, robots, gnomes and the Huntsman appear on their own. Grab loot with E or the physics gun and carry it into the green zone.

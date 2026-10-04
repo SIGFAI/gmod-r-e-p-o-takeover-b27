@@ -1,0 +1,7 @@
+Moments the clip must show (ticked = seen in the preview screenshots):
+[x] 1. Gold loot with glowing dollar price tags, and the player robot carries a piece into the green extraction zone: cha-ching, +$ popup, coin, money bar fills.
+[x] 2. A piece of loot is slammed into the ground (physics): its price drops with red -$ popups and sparks. (small on screen, readable by the red price text)
+[x] 3. Gnome swarm (tiny red-hat zombies) rushes the player and gets shot, each hit shows a number.
+[x] 4. The Huntsman (tall shotgun soldier) appears and is killed, dropping the Huntsman's Mask loot.
+[x] 5. The mask is carried into the zone: QUOTA REACHED, balloons and confetti, new level.
+Weak: moment 2 is small in frame; the Huntsman is dark in shadowed corners.
