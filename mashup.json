@@ -3,6 +3,13 @@
   "version": "1.0.0",
   "name": "R.E.P.O. Takeover",
   "tagline": "Bring R.E.P.O. into the game in the most visible and funny way. The change shows in the first 30 seconds of play.",
+  "how_to_play": [
+    "Haul the gold loot into the green zone to fill the quota and move to the next level.",
+    "Grab loot with E or the physics gun and carry it into the green zone.",
+    "Hard knocks lower an item's value and can shatter it, so carry it gently.",
+    "Gnome swarms show up every half minute; fight them off while you haul.",
+    "From the main menu start a Sandbox game on any map."
+  ],
   "kind": "mashup",
   "games": [
     {
@@ -211,8 +218,5 @@
     "id": "gmod",
     "status": "draft"
   },
-  "built_at": "2026-10-05T15:23:34.583Z",
-  "notes": [
-    "Unzip the mod folder into a new folder inside garrysmod/addons, start Garry's Mod in Sandbox on any map, and the loot, robots, gnomes and the Huntsman appear on their own. Grab loot with E or the physics gun and carry it into the green zone."
-  ]
+  "built_at": "2026-10-05T15:23:34.583Z"
 }
