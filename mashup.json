@@ -218,5 +218,7 @@
     "id": "gmod",
     "status": "draft"
   },
-  "built_at": "2026-10-05T15:23:34.583Z"
+  "built_at": "2026-10-05T15:23:34.583Z",
+  "listed": false,
+  "unlisted_reason": "Only playable in the stream demo for now: a player mode for this kit is coming."
 }
